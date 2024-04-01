@@ -1,0 +1,7 @@
+-- Mejora del servicio a clientes
+<Ini>
+	1. Tiempo de Carga de la Página
+	2. Interfaz de Usuario Responsiva
+	3. Optimización SEO
+	4. Proceso de Compra Simplificado
+<Fin>
